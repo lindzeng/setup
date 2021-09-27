@@ -1,11 +1,12 @@
 # checklist
 
 ## install apps
-- [ ] 1password/lastpassword
+- [ ] 1password
 - [ ] slack
 - [ ] iterm2
 - [ ] vscode
 - [ ] chrome
+- [ ] notion
 
 ## cli
 - [ ] install xcode
