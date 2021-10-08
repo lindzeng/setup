@@ -19,10 +19,10 @@
 - [ ] install [tpm plugin manager](https://github.com/tmux-plugins/tpm)
 - [ ] configure tmux
   - [ ] iterm2 > preferences > general > applications in terminal may access clipboard
-  - [] use .tmux.conf file
+  - [ ] use .tmux.conf file
 - [ ] configure vscode
-  - [] sync settings
-  - [] [install cli](https://code.visualstudio.com/docs/setup/mac) (to launch with `code`)
+  - [ ] sync settings
+  - [ ] [install cli](https://code.visualstudio.com/docs/setup/mac) (to launch with `code`)
 
 ## github
 - [ ] [generate ssh key](https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
