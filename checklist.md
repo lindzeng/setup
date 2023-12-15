@@ -5,7 +5,7 @@
 - [ ] slack
 - [ ] iterm2
 - [ ] vscode
-- [ ] chrome
+- [ ] chrome / firefox
 
 ## cli
 - [ ] install xcode
